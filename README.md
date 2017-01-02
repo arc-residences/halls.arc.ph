@@ -1,1 +1,2 @@
-# residents.arc.ph
+# halls.arc.ph
+Halls of residence at Arc
